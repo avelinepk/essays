@@ -1,3 +1,6 @@
+.ve-header "Essay Title" wc:
+
+
 ## Marginalized Communities in Ardmore, Pennsylvania During the Inter-War Period 
 
 Aiming at deconstructing the lives and culture of people on the margins of society within Ardmore Pennsylvania. Utilizing various research methods, this project attempts to glean insight into aspects of life in this mainline town. By engaging in historical speculation, constrained by primary source materials, I hope to explore the potential sources of local tension and struggle, coupled with historical imagination and theorizing about what the lives of these groups looked like. 
