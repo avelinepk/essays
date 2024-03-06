@@ -29,6 +29,16 @@
     <p> Turning to the above images, the first headline reads “Pennsylvania Bank Shuts,” and informs readers the Merion Title and Trust Company had to close its doors and hand over assets to the state.<sup>3</sup> Yet, in June of that same year, tabloids were fawning over the Merion County Cricket Club and its hosting of the U.S. Open. They described the locale as a “swanky Philadelphia suburb,” and gave the rundown and the wealthy players who will soon be rolling in to participate.<sup>4</sup>  While this certainly functions as an imperfect and anecdotal example, it provides a contextual frame for the contrast between the struggles of the working-class citizens in the town and the opulence with which the uber-wealthy lived their lives. The divides in Ardmore appeared to run sharp, but by sifting through various types of historical sources then a fuller picture of the town, especially for Black communities traditionally relegated to the margins, can begin to come into view. 
    </p>
     
+    <h3> 3.0  Report of Klan Activity in Ardmore, 1921  </h3>
+     <figure>
+    <figcaption style="clear: both; text-align: right;"> <b> <em> The New York Times. </em></b> </figcaption>
+    <img src="https://github.com/avelinepk/media/blob/main/klanmeetingardmore.jpg?raw=true" style="width: 300px; height: auto; float: right; margin-bottom: 20px; margin-left: 20px;">   
+     <figure>        
+    <p>The incident described in the 1921 New York Times article provides a snapshot into the complex and tense racial dynamics of Ardmore during the inter-war era. The presence of a covert meeting of men in white coats, strongly implied to be members of the Ku Klux Klan,<sup>9</sup> highlights the brazenness with which such hate groups operate, even in supposedly 'progressive' northern cities.  
+      
+         The fact that a Black man felt compelled to call the police to intervene—potentially putting himself at risk of retaliation–indicates the seriousness of the situation and the legitimate fears of the African American community that they could become a victim of racial violence in Ardmore. </p> 
+    <p>The fatal shooting of the officer during the altercation underscores the potential for volatility during such interactions and additionally helps contextualize the community fear surrounding such groups. This incident serves as a poignant reminder of the pervasive racism and racial violence that threatened many Black communities during the mid-20th century, especially in the wake of diminishing public knowledge on the state of racism in the North following Reconstruction. </p>
+    
      <h3>
       2.0 Lower Merion Population Composition, 1920 and 1930 Census Data
     </h3>
@@ -43,16 +53,7 @@
         </p>
         
    
-     <h3> 3.0  Report of Klan Activity in Ardmore, 1921  </h3>
-     <figure>
-    <figcaption style="clear: both; text-align: right;"> <b> <em> The New York Times. </em></b> </figcaption>
-    <img src="https://github.com/avelinepk/media/blob/main/klanmeetingardmore.jpg?raw=true" style="width: 300px; height: auto; float: right; margin-bottom: 20px; margin-left: 20px;">   
-     <figure>        
-    <p>The incident described in the 1921 New York Times article provides a snapshot into the complex and tense racial dynamics of Ardmore during the inter-war era. The presence of a covert meeting of men in white coats, strongly implied to be members of the Ku Klux Klan,<sup>9</sup> highlights the brazenness with which such hate groups operate, even in supposedly 'progressive' northern cities.  
-      
-         The fact that a Black man felt compelled to call the police to intervene—potentially putting himself at risk of retaliation–indicates the seriousness of the situation and the legitimate fears of the African American community that they could become a victim of racial violence in Ardmore. </p> 
-    <p>The fatal shooting of the officer during the altercation underscores the potential for volatility during such interactions and additionally helps contextualize the community fear surrounding such groups. This incident serves as a poignant reminder of the pervasive racism and racial violence that threatened many Black communities during the mid-20th century, especially in the wake of diminishing public knowledge on the state of racism in the North following Reconstruction. </p>
-    
+     
 
     <h3>
      4.0 Ardmore Residency Map, 1920
