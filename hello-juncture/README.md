@@ -42,9 +42,7 @@
        <p> This demonstrates that the area had a limited amount of cultural diversity, and raises questions about the experiences and interactions among different ethnic and racial groups. Despite the dominance of native-born whites in Lower Merion township, the presence of foreign-born whites and their interactions with the Black community suggests a more nuanced social landscape. In section 5.0 we will explore these dynamics further, uncovering the diverse residential landscape of Ardmore and engaging in historical speculation about the potential impact of neighborhood cultural diversity. 
         </p>
         
-    
-</section>
- <section class="section2">
+   
      <h3> 3.0  Report of Klan Activity in Ardmore, 1921  </h3>
     <figure>
     <figcaption style="clear: both; text-align: right;"> <b> <em> The New York Times. </em></b> </figcaption>
@@ -98,8 +96,10 @@
          <h3> Conclusion </h3> 
          <p>By exploring a diverse array of sources we can begin to piece together the various forms of discrimination present within Ardmore. There are tangible factors, such as access to economic or educational benefits, that African American families did not receive. But there are also intangible features of discrimination, such as the bias present within the legal system or the denial of Klan activity within the town. Either way, further research is needed to narrow the scope of study and to be able to work towards a more comprehensive understanding of the community during the inter-war period. </p>
                 
-         
+
          <div>
+          
+         
              <p> <b> Works Cited </b> </p>
 <section style="font-size:15px">
          
