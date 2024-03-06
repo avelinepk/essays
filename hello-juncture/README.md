@@ -46,7 +46,7 @@
      <h3> 3.0  Report of Klan Activity in Ardmore, 1921  </h3>
     <figure>
     <figcaption style="clear: both; text-align: right;"> <b> <em> The New York Times. </em></b> </figcaption>
-    <img src="https://github.com/avelinepk/media/blob/main/klanmeetingardmore.jpg?raw=true" style="max-width: 30%; height: auto; float: right; margin-bottom: 20px; margin-left: 20px;">   
+    <img src="https://github.com/avelinepk/media/blob/main/klanmeetingardmore.jpg?raw=true" style="width: 300px; height: auto; float: right; margin-bottom: 20px; margin-left: 20px;">   
      <figure> 
          
     <p>The incident described in the 1921 New York Times article provides a snapshot into the complex and tense racial dynamics of Ardmore during the inter-war era. The presence of a covert meeting of men in white coats, strongly implied to be members of the Ku Klux Klan,<sup>9</sup> highlights the brazenness with which such hate groups operate, even in supposedly 'progressive' northern cities.  The fact that a Black man felt compelled to call the police to intervene—potentially putting himself at risk of retaliation–indicates the seriousness of the situation and the legitimate fears of the African American community that they could become a victim of racial violence in Ardmore. </p> 
