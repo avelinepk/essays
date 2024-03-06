@@ -1,15 +1,15 @@
 
 
 
-<ve-header style="font-family: serif" background="darkgreen" label="An Interwar Picture of African American Communities in Ardmore"></ve-header>
+<ve-header style="font-family: serif" background="maroon" label="An Interwar Picture of African American Communities in Ardmore"></ve-header>
 
 
-<section class="section1" style="font-family: serif">
+<section style="font-family: serif">
   <h1>
    Project Goals
   </h1>
   <p>	This research project’s objective is to delve into the experiences and cultural dynamics of African Americans residing in Ardmore, Pennsylvania, during the interwar period. Currently, this project is a small snippet of what aims to be a larger construction of how outsiders documented and understood the racial dynamics present within the Main Line town. The project draws on various sources—from books to census records—to construct of picture of how race relations were perceived during the interwar period from 1920-1940. Through historical inquiry guided by primary source materials, I aim to shed light on local tension and challenges faced by its residents. Coupling this project with various secondary sources and other scholarly analyses of the Main Line in Philadelphia additionally presents the opportunity to construct a more comprehensive picture of Ardmore from 1920-1940. </p>
-<section class="section2">
+
   
     <h2>
       1.0 Broad Historical Context
@@ -51,7 +51,7 @@
     <img src="https://github.com/avelinepk/media/blob/main/klanmeetingardmore.jpg?raw=true" style="width: 400px; height: auto; float: right; margin-bottom: 20px; margin-left: 20px;">   
      <figure> 
          
-    <p>The incident described in the 1921 New York Times article provides a snapshot into the complex and tense racial dynamics of Ardmore during the inter-war era. The presence of a covert meeting of men in white coats, strongly implied to be members of the Ku Klux Klan,<sup>9</sup> highlights the brazenness with which such hate groups operate, even in supposedly 'progressive' northern cities.  The fact that a Black man felt compelled to call the police to intervene—potentially putting himself at risk of retaliation–indicates the seriousness of this situation and the legitimate fears of the African American community that they could become a victim of racial violence in Ardmore. </p> 
+    <p>The incident described in the 1921 New York Times article provides a snapshot into the complex and tense racial dynamics of Ardmore during the inter-war era. The presence of a covert meeting of men in white coats, strongly implied to be members of the Ku Klux Klan,<sup>9</sup> highlights the brazenness with which such hate groups operate, even in supposedly 'progressive' northern cities.  The fact that a Black man felt compelled to call the police to intervene—potentially putting himself at risk of retaliation–indicates the seriousness of the situation and the legitimate fears of the African American community that they could become a victim of racial violence in Ardmore. </p> 
     <p>The fatal shooting of the officer during the altercation underscores the potential for volatility during such interactions and additionally helps contextualize the community fear surrounding such groups. This incident serves as a poignant reminder of the pervasive racism and racial violence that threatened many Black communities during the mid-20th century, especially in the wake of diminishing public knowledge on the state of racism in the North following Reconstruction. </p>
     
 
@@ -145,15 +145,3 @@
     
   
     
-
-</section>
-</section>
-
-<ve-footer>
-  <ul>
-    <li>
-       <a href="https://juncture-digital.org">Powered by:
-        <img alt src="https://juncture-digital.github.io/juncture/static/images/juncture-logo.png"></a> 
-    </li>
-  </ul>
-</ve-footer>
