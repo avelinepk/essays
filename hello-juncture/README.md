@@ -87,7 +87,7 @@
     </h3>
     <figure>
     <figcaption style="clear: both; text-align: left;"> <b> <em> The New York Times. </em> </b> </figcaption>
-    <img src="https://github.com/avelinepk/media/blob/main/Haverford_Murder.jpg?raw=true" style="width: 400px; height: auto; float: left; margin-bottom: 20px; margin-right: 20px;">   
+    <img src="https://github.com/avelinepk/media/blob/main/Haverford_Murder.jpg?raw=true" style="width: 300px; height: auto; float: left; margin-bottom: 20px; margin-right: 20px;">   
      <figure> 
          
     <p> While the crime itself was committed and tried in Haverford, the case of Ardmore’s Roy Crittenton’s conviction and death sentencing, reported by the <em>New York Times </em><sup>17</sup> sheds light on the pervasive racial bias within the Main Line (and American) legal system during the inter-war period, even in cases in which the defendant was certainly guilty. Crittenton, a Black man, was swiftly convicted of first-degree murder and sentenced to death for the murder of a fellow Haverford College employee Mary L. Ginder, a White woman. </p>
