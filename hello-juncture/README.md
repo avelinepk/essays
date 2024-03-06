@@ -15,8 +15,8 @@
       1.0 Broad Historical Context
     </h2>
     
-    <img src="https://github.com/avelinepk/media/blob/main/ArdmoreHosts.jpg?raw=true" style="width:400px; height: auto; float: right; margin-left:20px">
-    <img src="https://github.com/avelinepk/media/blob/main/BankClosure.jpg?raw=true" style="width:300px; height: auto; float: left; margin-right:20px;">
+    <img src="https://github.com/avelinepk/media/blob/main/ArdmoreHosts.jpg?raw=true" style="max-width: 40%; height: auto; float: right; margin-left:20px">
+    <img src="https://github.com/avelinepk/media/blob/main/BankClosure.jpg?raw=true" style="max-width: 30%; height: auto; float: left; margin-right:20px;">
 
     
     <p>The inter-war period was a time of great struggle for many Americans, with the 1920s bearing witness to a significant divergence in wealth between the top .9% and the bottom 90% of income-earners; this dissonance between the rich and poor was, undoubtedly, even greater for marginalized communities.<sup>1</sup>
@@ -33,7 +33,7 @@
       2.0 Lower Merion Population Composition, 1920 and 1930 Census Data
     </h3>
 
-     <img src="https://github.com/avelinepk/media/blob/main/1930census.jpg?raw=true" style="width:3000px; height: auto; margin-bottom: 20px;">
+     <img src="https://github.com/avelinepk/media/blob/main/1930census.jpg?raw=true" style="max-width:100%; height: auto; margin-bottom: 20px;">
     
         <p> The census data from 1920 to 1930 paints a vivid picture of the rapid growth and changing demographics within Lower Merion township, home to Ardmore. In just a decade, the population surged from 23,866 inhabitants<sup>5</sup> to 35,166,<sup>6</sup> signaling a high influx of residents to this relatively small tract of land. This growth could have been partly due to the township’s general appeal, offering both the accessibility of city life and the serene ambiance of a small town. These characteristics can be seen across the Main Line, making the area an attractive decision for the affluent seeking refuge from the urban hustle and bustle. 
         </p>
@@ -46,7 +46,7 @@
      <h3> 3.0  Report of Klan Activity in Ardmore, 1921  </h3>
     <figure>
     <figcaption style="clear: both; text-align: right;"> <b> <em> The New York Times. </em></b> </figcaption>
-    <img src="https://github.com/avelinepk/media/blob/main/klanmeetingardmore.jpg?raw=true" style="width: 400px; height: auto; float: right; margin-bottom: 20px; margin-left: 20px;">   
+    <img src="https://github.com/avelinepk/media/blob/main/klanmeetingardmore.jpg?raw=true" style="max-width: 30%; height: auto; float: right; margin-bottom: 20px; margin-left: 20px;">   
      <figure> 
          
     <p>The incident described in the 1921 New York Times article provides a snapshot into the complex and tense racial dynamics of Ardmore during the inter-war era. The presence of a covert meeting of men in white coats, strongly implied to be members of the Ku Klux Klan,<sup>9</sup> highlights the brazenness with which such hate groups operate, even in supposedly 'progressive' northern cities.  The fact that a Black man felt compelled to call the police to intervene—potentially putting himself at risk of retaliation–indicates the seriousness of the situation and the legitimate fears of the African American community that they could become a victim of racial violence in Ardmore. </p> 
